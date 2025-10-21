@@ -7,7 +7,7 @@
 <p align="center">
   🎓 CSE Undergrad @ IIT (ISM) Dhanbad <br/>
   📊 Aspiring Data Analyst | 💻 Python, SQL, Excel, Power BI <br/>
-  🌱 Currently exploring Machine Learning & Dashboarding <br/>
+  <!-- 🌱 Currently exploring Machine Learning & Dashboarding <br/> -->
 </p>
 
 ---
@@ -26,5 +26,3 @@
 
 ---
 
-### 📊 GitHub Stats
-![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ARYAND0N&show_icons=true&theme=tokyonight)
