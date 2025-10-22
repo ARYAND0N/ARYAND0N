@@ -7,7 +7,7 @@
 
 <p align="center">
   <b>CSE Undergrad @ IIT (ISM) Dhanbad</b> <br/>
-  💻 Software Development | 📊 Data Analytics
+  💻 Full Stack Developer | 📊 Data Analytics
 </p>
 
 
